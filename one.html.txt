@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class ="container" width="300px">
+<div class ="col1-sm-4">
+<div class="panel panel-primary" >
+      <div class="panel-heading"><p class="text-center"><b>Sign in</b></p></div>
+      
+   
+	<div class="row">
+		<div class="col-sm-4"></div>
+		<div class="col-sm-4">
+			<div id="ui">
+				<form class="form-group">
+					<div class="row">
+					<h2></h2>
+						<div class="col1-sm-3">
+							
+							<input type="text" name="email" class="form-control" placeholder="email@example.com">
+						</div>
+						<h2></h2>
+						<div class="col1-sm-3">
+							
+							<input type="text" name="password" class="form-control" placeholder="password">
+						</div>
+					</div>
+					<h2>                                                        </h2>
+					<div>
+					<button type="button" class="btn btn-primary btn-block btn-lg-4">SIGN IN</button>
+					</div>
+					<p class="text-left">Forgot your password?<p>  
+					<p class="text-right">Register?</p> 
+					<p class="text-left">----------------------------------     OR     -----------------------------------</p> 
+					<button type="button" class="btn btn-primary btn-block"><b>f</b></button>
+					<button type="button" class="btn btn-danger btn-block"><b>g</b></button>
+					<h2></h2>
+					<h2></h2>
+					<button type="button" class="btn btn-success btn-block"><b>--EPAM LOGIN--</b></button>
+			
+			</form>	
+</div>
+</div>
+</div>			
+			
+</div>
+</div>
+ </div>
+</body>
+</html>	
